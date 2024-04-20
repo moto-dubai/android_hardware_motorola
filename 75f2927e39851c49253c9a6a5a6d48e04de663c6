@@ -16,6 +16,24 @@
       "message": "You don\u0027t need this: https://github.com/LineageOS/android_hardware_motorola/blob/lineage-21/MotoActions/Android.bp#L15 + https://github.com/LineageOS/android_packages_resources_devicesettings/commit/17f73bbaad5af6942dc214d7be19cf137d7cd379",
       "revId": "75f2927e39851c49253c9a6a5a6d48e04de663c6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9d355b56_a008c42e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24334
+      },
+      "writtenOn": "2024-04-20T13:43:31Z",
+      "side": 1,
+      "message": "Thanks for pointing out this.",
+      "parentUuid": "c9ac356f_63c90f51",
+      "revId": "75f2927e39851c49253c9a6a5a6d48e04de663c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
