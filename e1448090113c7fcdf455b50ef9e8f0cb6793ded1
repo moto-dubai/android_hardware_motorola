@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "75cf896d_2d12f9b7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14048
+      },
+      "writtenOn": "2024-08-19T05:53:03Z",
+      "side": 1,
+      "message": "Fixes vintf related vts failures.",
+      "revId": "e1448090113c7fcdf455b50ef9e8f0cb6793ded1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
